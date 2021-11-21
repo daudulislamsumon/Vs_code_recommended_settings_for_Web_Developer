@@ -45,7 +45,7 @@
             {
                 "scope": "punctuation.definition.tag",
                 "settings": {
-                    "foreground": "#22a6b3",
+                    "foreground": "#130f40",
                     "fontStyle": "bold"
                 }
             },
