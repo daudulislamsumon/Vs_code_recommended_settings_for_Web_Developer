@@ -1,15 +1,12 @@
 {
-
     // VSCode Recommended Settings For Web Developer
     // Author: Md Daudul Islam <md.daudulislamsumon@gmail.com>
     // Creation Date: 20/11/2021
     // Update Date: 22/11/2021
+    // Update Date: 23/11/2021
     // *********************************************************
     // ===== VSCode Recommended Settings For Web Developer =====
     // *********************************************************
-
-
-
 
     "editor.mouseWheelZoom": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -100,7 +97,7 @@
                 {
                     "scope": "comment.block.html",
                     "settings": {
-                        "foreground": "#22a6b3"
+                        "foreground": "#95a5a6"
                     }
                 },
                 {
@@ -208,6 +205,13 @@
                     "scope": "constant.numeric",
                     "settings": {
                         "foreground": "#3742fa"
+                    }
+                },
+                {
+                    "scope": "punctuation.separator.key-value.html",
+                    "settings": {
+                        "foreground": "#009432",
+                        "fontStyle": "bold"
                     }
                 }
             ]
