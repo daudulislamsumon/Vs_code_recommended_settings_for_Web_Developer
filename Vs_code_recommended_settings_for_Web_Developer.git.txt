@@ -4,6 +4,7 @@
     // Creation Date: 20/11/2021
     // Update Date: 22/11/2021
     // Update Date: 23/11/2021
+    // Update Date: 06/12/2021
     // *********************************************************
     // ===== VSCode Recommended Settings For Web Developer =====
     // *********************************************************
@@ -211,6 +212,13 @@
                     "scope": "punctuation.separator.key-value.html",
                     "settings": {
                         "foreground": "#009432",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "keyword.other.unit",
+                    "settings": {
+                        "foreground": "#c0392b",
                         "fontStyle": "bold"
                     }
                 }
